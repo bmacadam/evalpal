@@ -1,0 +1,2 @@
+deviceIdentifier	deviceName
+3040c6a5cd61ceacaea6f68566ca2240df79c012	Tan Nguyen iPhone 5 CDMA+GSM
